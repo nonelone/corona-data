@@ -1,7 +1,6 @@
 import tkinter
 import requests
 import matplotlib.pyplot as plt
-from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, NavigationToolbar2Tk)
 
 AllCasesNumber = 0
 CurrentDeadNumber = 0
